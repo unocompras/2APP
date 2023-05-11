@@ -12,7 +12,7 @@ description: >
 
 # Build settings
 
-theme: 
+theme: minima
 
 plugins:
   - jekyll-feed
