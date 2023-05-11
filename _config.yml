@@ -12,7 +12,7 @@ description: >
 
 # Build settings
 
-theme: sitemas
+theme: 
 
 plugins:
   - jekyll-feed
